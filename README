@@ -1,2 +1,10 @@
 This is the README file of the smtpRuby project.
 Date created: Feb. 09, 2012
+
+$ cd smtpRuby
+$ git init
+$ touch README
+$ git add README
+$ git commit -m 'first commit'
+$ git remote add origin git@github.com:username/Hello-World.git
+$ git push origin master
